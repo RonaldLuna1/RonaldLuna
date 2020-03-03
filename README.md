@@ -1,2 +1,5 @@
-# RonaldLuna
-This Repository contains all Ronald's Luna Python code 
+# CTI 110 Repository  
+Created for P2LAB1
+Luna 
+3-2-2020
+
